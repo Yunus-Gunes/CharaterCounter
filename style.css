@@ -9,7 +9,7 @@ body{
 }
 
 .container{
-    background-color: rgb(205, 213, 143);
+    background-color: rgb(139, 233, 219);
     width: 400px;
     padding: 20px;
     border-radius: 10px;
@@ -35,7 +35,7 @@ body{
 
 .counter-container p{
     font-size: 18px;
-    color: gray;
+    color: rgb(181, 68, 68);
 }
 
 .total-counter{
